@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou o Yan Simionato</h1>
-<h3 align="center">📚 Estudante de Python | 💻 Apaixonado por Tecnologia</h3>
+<h3 align="center">📚 Estudante de Python | 💻 Apaixonado por Tecnologia | Cursando o 2° Ano do Ensino Médio</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yanchouman&label=Visualizações&color=0e75b6&style=flat" alt="profile-views" />
@@ -12,7 +12,6 @@
 - 🔭 Atualmente estudando **Python**
 - 🌱 Buscando aprender mais sobre **automação, back-end e inteligência artificial**
 - 💡 Sempre curioso sobre **novas tecnologias e inovações**
-- 📫 Você pode falar comigo via: [LinkedIn](https://www.linkedin.com) (adicione o seu link real aqui)
 
 ---
 
