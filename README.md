@@ -1,5 +1,5 @@
-<h1 align="center">👋 Olá, eu sou o yan simionato</h1>
-<h3 align="center">📚 estudante de python | 💻 apaixonado por tecnologia</h3>
+<h1 align="center">👋 Olá, eu sou o Yan Simionato</h1>
+<h3 align="center">📚 Estudante de Python | 💻 Apaixonado por Tecnologia</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yanchouman&label=Visualizações&color=0e75b6&style=flat" alt="profile-views" />
